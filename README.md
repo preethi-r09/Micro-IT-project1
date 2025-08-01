@@ -1,4 +1,5 @@
 🔐 Password Generator
+
 A Password Generator is a tool that creates strong, random passwords to enhance security. This application allows users to customize the generated passwords based on several criteria including:
 
 Desired password length
